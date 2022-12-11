@@ -21,7 +21,7 @@
     <ClCompile Include="C:\Users\86186\source\compute graphics\src\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Rectangle.cpp">
+    <ClCompile Include="five_stars.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="flag.cpp">
